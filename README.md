@@ -1,4 +1,12 @@
-### Hi there 👋
+## Emily Inácio 👋
+
+My name is Gustavo Teixeira and I'm a Frontend Junior developer.
+</br>
+
+✅ HTML / CSS / JavaScript / Bootstrap / C
+📕 Learning React, Next, Node.js and TS
+📖 I have interest in Vue, React Native and Angular
+I also work as a developer front-end in WEBJUMP
 
 <!--
 **emiinacio/emiinacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
