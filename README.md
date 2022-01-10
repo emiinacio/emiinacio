@@ -3,11 +3,9 @@
 My name is Emily Inácio and I'm a Frontend Junior developer.
 </br>
 
-✅ HTML / CSS / / Bootstrap
-</br>
+<p>✅ HTML / CSS / / Bootstrap
 
-📕 Learning React, JavaScript 
-</br>
+<p>📕 Learning React, JavaScript 
 
-📖 I have interest in Vue, React Native, TS
+<p>📖 I have interest in Vue, React Native, TS
 
