@@ -14,7 +14,7 @@ My name is Emily Inácio and I'm a Frontend Junior Developer.
 
 <p>📕 Learning React, JavaScript 
 
-<p>📖 I have interest in React Native, Next.js TS
+<p>📖 I have interest in React Native, Next.js and TS
  <br>
   
  [![Emily Inácio's GitHub stats](https://github-readme-stats.vercel.app/api?username=emiinacio&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
