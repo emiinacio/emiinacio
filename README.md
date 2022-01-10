@@ -13,5 +13,6 @@ My name is Emily Inácio and I'm a Frontend Junior Developer.
 <p>📕 Learning React, JavaScript 
 
 <p>📖 I have interest in Vue, React Native, TS
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?emiinacio=emiinacio&layout=compact)](https://github.com/emiinacio/github-readme-stats)
