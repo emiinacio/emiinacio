@@ -6,7 +6,6 @@ My name is Emily Inácio and I'm a Frontend Junior developer.
 ✅ HTML / CSS / / Bootstrap
 📕 Learning React, JavaScript 
 📖 I have interest in Vue, React Native, TS
-I also work as a developer front-end in WEBJUMP
 
 <!--
 **emiinacio/emiinacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
