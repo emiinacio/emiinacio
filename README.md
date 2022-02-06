@@ -19,4 +19,4 @@ My name is Emily Inácio and I'm a Frontend Junior Developer.
   
  ![Emily Inácio's GitHub stats](https://github-readme-stats.vercel.app/api?username=emiinacio&show_icons=true&theme=radical)
  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emiinacio&show_icons=true&theme=radical)]
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emiinacio&show_icons=true&theme=radical)
