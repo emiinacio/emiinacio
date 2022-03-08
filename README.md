@@ -7,12 +7,12 @@
 </a>
 <hr>
 
-My name is Emily Inácio and I'm a Frontend Junior Developer.
+My name is Emily Inácio and I'm a Full Stack Developer Junior.
 </br>
 
-<p>✅ HTML / CSS / Javascript
+<p>✅ HTML / CSS / Javascript / Node.js / PostgreSQL
 
-<p>📕 Learning Vue
+<p>📕 Learning Vue.js
 
  <br>
   
