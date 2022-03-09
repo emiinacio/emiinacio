@@ -7,7 +7,7 @@
 </a>
 <hr>
 
-My name is Emily Inácio and I'm a Full Stack Developer Junior.
+My name is Emily Inácio and I'm a Full Stack Developer.
 </br>
 
 <p>✅ HTML / CSS / Javascript / Node.js / PostgreSQL
