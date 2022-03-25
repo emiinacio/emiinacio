@@ -11,7 +11,7 @@ My name is Emily Inácio and I'm a Full Stack Developer.
 </br>
 
 <p>✅ HTML / CSS / Vue/ Javascript / Node.js / Express
-    PostgreSQL
+    / PostgreSQL
 
 <p>📕 Learning Vue.js
 
