@@ -7,13 +7,6 @@
 </a>
 <hr>
 
-My name is Emily Inácio and I'm a Frontend Developer.
-</br>
-
-<p>✅ HTML / CSS / Javascript / Node.js 
-
-<p>📕 Learning Vue.js
-
  <br>
   
  ![Emily Inácio's GitHub stats](https://github-readme-stats.vercel.app/api?username=emiinacio&show_icons=true&theme=radical)
